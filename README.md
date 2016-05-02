@@ -9,7 +9,7 @@
 ## **iOS**
 **[iOS心得](https://github.com/100mango/zen)** iOS的一些底层技术。          
 **[Swift-Article](https://github.com/leopardpan/DevNote/tree/master/Swift-Article)**: Swift资料汇总。 
-
+**[iOSwift](http://www.ioswift.org/) swift基础资料
 
 ## **大数据、机器学习**
 **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)** A curated list of awesome Machine Learning frameworks, libraries and software.      
@@ -18,6 +18,7 @@
 **[Qix](https://github.com/ty4z2008/Qix)** Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang       
 **[Swift-AI](https://github.com/collinhundley/Swift-AI)** Highly optimized artificial intelligence and machine learning library written in Swift.      
 **[Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)**  machine learning and deep learning tutorials, articles and other resources.      
+**[tornadomeet机器学习笔记](http://www.cnblogs.com/tornadomeet/)**     
 
 
 持续更行中...
