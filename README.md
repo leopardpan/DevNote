@@ -1,6 +1,23 @@
 
 # 研发笔记本:
 
+
+## **Google镜像**
+### 个人常用
+**[快搜](http://www.cdjltz.com/)**     
+**[wacao](www.wacao.org)**     
+**[Google学术搜索](https://www.scholar.live/)**     
+**[bjgong](http://www.bjgong.tk/)**      
+**[算法组的谷歌镜像](http://google.suanfazu.com/)**     
+### 镜像收集站
+**[Google 镜像站搜集](https://github.com/sxyx2008/DevArticles/issues/99)**     
+**[Google 镜像站搜集](http://www.itechzero.com/google-mirror-sites-collect.html)**      
+**[谷歌学术镜像](http://dir.scmor.com/google/)**     
+### 开源项目
+**[google](https://github.com/isayme/google)**  Google镜像服务, 使用Google custom search API实现          
+**[Play-Google](https://github.com/joymufeng/play-google)** Github  是一款基于PlayFramework开发的服务器端软件，利用Play-Google可以很容易的搭建一台属于自己的Google搜索服务器，如: [jikewenku](https://g.jikewenku.cn/)。   
+
+
 ## **总体资料**
 **[awesome中文汇总](https://github.com/jobbole)**  
 **[awesome英文汇总](https://github.com/sindresorhus/awesome)**   
