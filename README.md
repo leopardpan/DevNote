@@ -17,7 +17,15 @@
 **[谷歌学术镜像](http://dir.scmor.com/google/)**     
 ### Google镜像开源项目
 **[google](https://github.com/isayme/google)**  Google镜像服务, 使用Google custom search API实现          
-**[Play-Google](https://github.com/joymufeng/play-google)** Github  是一款基于PlayFramework开发的服务器端软件，利用Play-Google可以很容易的搭建一台属于自己的Google搜索服务器，如: [jikewenku](https://g.jikewenku.cn/)。   
+**[Play-Google](https://github.com/joymufeng/play-google)** Github  是一款基于PlayFramework开发的服务器端软件，利用Play-Google可以很容易的搭建一台属于自己的Google搜索服务器，如: [jikewenku](https://g.jikewenku.cn/)。      
+
+
+## **跨平台**   
+**ReactNative**     
+[Github地址](https://github.com/facebook/react-native)、[英文官网](http://facebook.github.io/react-native/)、[中文官网](http://reactnative.cn/) 、[react-native-guide](https://github.com/ele828/react-native-guide)、[awesome-react-native-英文](https://github.com/jondot/awesome-react-native) 、[react-native-lesson](https://github.com/vczero/react-native-lesson)  
+
+
+
 
 ## **iOS**
 **[iOS心得](https://github.com/100mango/zen)** iOS的一些底层技术。          
