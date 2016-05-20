@@ -25,12 +25,15 @@
 [Github地址](https://github.com/facebook/react-native)、[英文官网](http://facebook.github.io/react-native/)、[中文官网](http://reactnative.cn/) 、[react-native-guide](https://github.com/ele828/react-native-guide)、[awesome-react-native-英文](https://github.com/jondot/awesome-react-native) 、[react-native-lesson](https://github.com/vczero/react-native-lesson)  
 
 
-
-
 ## **iOS**
 **[iOS心得](https://github.com/100mango/zen)** iOS的一些底层技术。          
 **[Swift-Article](https://github.com/leopardpan/DevNote/tree/master/Swift-Article)**: Swift资料汇总。 
 **[iOSwift](http://www.ioswift.org/) swift基础资料
+
+
+## **iOS、Python混编**      
+[使用Python开发iOS程序](http://ifujun.com/shi-yong-pythonkai-fa-ioscheng-xu/)    
+[Can I write native iPhone apps using Python](http://stackoverflow.com/questions/43315/can-i-write-native-iphone-apps-using-python)    
 
 ## **大数据、机器学习**
 **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)** A curated list of awesome Machine Learning frameworks, libraries and software.      
